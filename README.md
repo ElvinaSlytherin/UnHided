@@ -1,3 +1,13 @@
+---
+title: UnHided MediaFlow
+emoji: 🎬
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # UnHided
 ## Env Vars
 ```
